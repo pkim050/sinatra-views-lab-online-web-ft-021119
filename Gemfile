@@ -10,7 +10,6 @@ gem 'shotgun'
 gem 'pry'
 gem 'require_all'
 gem 'date'
-gem 'time'
 
 group :test do
   gem 'rspec'
