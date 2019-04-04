@@ -13,7 +13,6 @@ class App < Sinatra::Base
   end
 
   get '/date' do
-    @name = Joe
     erb :date
   end
 end
